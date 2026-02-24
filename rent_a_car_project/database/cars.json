@@ -1,0 +1,16 @@
+[
+  {
+    "id": "d39d092e-6e60-45b1-8231-7c62f72dcbf0",
+    "name": "Mustang",
+    "available": true,
+    "gasAvailable": true,
+    "realeseYear": 2025
+  },
+  {
+    "id": "2b5f252e-12dc-4c36-959b-73f0859bc88a",
+    "name": "Roadster",
+    "available": false,
+    "gasAvailable": true,
+    "realeseYear": 2026
+  }
+]
